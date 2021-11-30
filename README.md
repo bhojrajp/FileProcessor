@@ -7,5 +7,7 @@
 Steps for Execution
 
 Open the command line and go to execution directory
+
 Execute command: FileProcessor.exe DataExtractor_Example_Input.csv
+
 Check output file Output subdirectory in current executing directory
