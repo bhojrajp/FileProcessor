@@ -1,0 +1,16 @@
+C:\bhojraj\RND\FileProcessor\FileProcessorTests\obj\Debug\FileProcessorTests.csprojAssemblyReference.cache
+C:\bhojraj\RND\FileProcessor\FileProcessorTests\obj\Debug\FileProcessorTests.csproj.CoreCompileInputs.cache
+C:\bhojraj\RND\FileProcessor\FileProcessorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\bhojraj\RND\FileProcessor\FileProcessorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\bhojraj\RND\FileProcessor\FileProcessorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\bhojraj\RND\FileProcessor\FileProcessorTests\bin\Debug\FileProcessorTests.dll
+C:\bhojraj\RND\FileProcessor\FileProcessorTests\bin\Debug\FileProcessorTests.pdb
+C:\bhojraj\RND\FileProcessor\FileProcessorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\bhojraj\RND\FileProcessor\FileProcessorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\bhojraj\RND\FileProcessor\FileProcessorTests\bin\Debug\ProcessLibrary.dll
+C:\bhojraj\RND\FileProcessor\FileProcessorTests\bin\Debug\ProcessLibrary.pdb
+C:\bhojraj\RND\FileProcessor\FileProcessorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\bhojraj\RND\FileProcessor\FileProcessorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\bhojraj\RND\FileProcessor\FileProcessorTests\obj\Debug\FileProcessorTests.csproj.CopyComplete
+C:\bhojraj\RND\FileProcessor\FileProcessorTests\obj\Debug\FileProcessorTests.dll
+C:\bhojraj\RND\FileProcessor\FileProcessorTests\obj\Debug\FileProcessorTests.pdb

@@ -1,0 +1,5 @@
+C:\bhojraj\RND\FileProcessor\ProcessLibrary\bin\Debug\ProcessLibrary.dll
+C:\bhojraj\RND\FileProcessor\ProcessLibrary\bin\Debug\ProcessLibrary.pdb
+C:\bhojraj\RND\FileProcessor\ProcessLibrary\obj\Debug\ProcessLibrary.csproj.CoreCompileInputs.cache
+C:\bhojraj\RND\FileProcessor\ProcessLibrary\obj\Debug\ProcessLibrary.dll
+C:\bhojraj\RND\FileProcessor\ProcessLibrary\obj\Debug\ProcessLibrary.pdb
